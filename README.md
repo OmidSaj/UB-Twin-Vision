@@ -16,8 +16,8 @@ This is the official repository for the code and models used by UB-SHM team in I
 | :---: | :---: | :---: | 
 | SRT-Net | Component type | link |
 | SRT-Net | Component damage severity | link |
-| DmgFormer-S | damage (crack, rebar, spall) | link |
-| DmgFormer-L | damage (crack, rebar, spall) | link |
+| DmgFormer-S | Damage (crack, rebar, spall) | link |
+| DmgFormer-L | Damage (crack, rebar, spall) | link |
 
 ## TRS-Net
 
