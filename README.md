@@ -14,3 +14,7 @@ Department of Civil, Structural and Environmental Engineering
 ## SRT-Net
 
 ![SRT-Net](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/SRT-Net.png)
+
+## DmgFormer
+
+![DmgFormer](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/DmgFormer.png)
