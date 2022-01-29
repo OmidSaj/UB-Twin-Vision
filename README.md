@@ -15,7 +15,7 @@ This is the official repository for the code and models used by UB-SHM team in I
 ![Segmentation demo](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/A20400.png)
 
 ## Models and code
-The code and models are developed using ![PyTorch](https://pytorch.org/)
+The code and models are developed using ![PyTorch](https://pytorch.org/).
 
 | Name | Segmentation Task | Trained Model/weights |
 | :---: | :---: | :---: | 
