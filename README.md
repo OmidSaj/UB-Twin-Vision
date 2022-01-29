@@ -17,4 +17,4 @@ Department of Civil, Structural and Environmental Engineering
 
 ## DmgFormer
 
-![DmgFormer](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/DmgFormer.png)
+![DmgFormer](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/DmgFormer.jpg)
