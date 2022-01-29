@@ -29,3 +29,4 @@ This is the official repository for the code and models used by UB-SHM team in I
 
 ## Acknowledgements
 * The [Swin Transformer](https://github.com/microsoft/Swin-Transformer) backbone implementation is a slight modification of the official repository from [Microsoft ](https://github.com/microsoft/Swin-Transformer).
+* TRS-Net is based on ResNeSt and U-Net++ implementations from [SMP](https://github.com/qubvel/segmentation_models.pytorch) and [timm-models](https://github.com/rwightman/pytorch-image-models)
