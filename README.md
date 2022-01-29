@@ -10,3 +10,7 @@ University at Buffalo
 Department of Civil, Structural and Environmental Engineering
 
 ## Introduction
+
+## SRT-Net
+
+![SRT-Net](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/SRT-Net.png)
