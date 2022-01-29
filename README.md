@@ -14,7 +14,7 @@ This the official repository for the code and models used by UB-SHM team in IC-S
 
 ## SRSnet
 
-![SRSnet](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/STR-Net.jpg)
+![SRSnet](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/SRSnet.jpg)
 
 ## DmgFormer
 
