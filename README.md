@@ -1,4 +1,4 @@
 # UB-Twin-Vision
-UB's Twin deep learning vision models for IC-SHM
+## Twin Models for High Resolution Visual Inspections
 
-A team effort from [Kareem Eltouny](https://github.com/keltouny) and [Seyedomid Sajedi](https://github.com/OmidSaj).
+By [Kareem Eltouny](https://github.com/keltouny) and [Seyedomid Sajedi](https://github.com/OmidSaj).
