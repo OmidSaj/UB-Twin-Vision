@@ -6,7 +6,7 @@ A team effort by:
 [Kareem Eltouny](https://github.com/keltouny) and [Seyedomid Sajedi](https://github.com/OmidSaj).
 
 Jan 2022 
-
 University at Buffalo 
-
 Department of Civil, Structural and Environmental Engineering
+
+## Introduction
