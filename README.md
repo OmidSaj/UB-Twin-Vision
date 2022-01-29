@@ -10,7 +10,7 @@ University at Buffalo (SUNY),
 Department of Civil, Structural and Environmental Engineering
 
 ## Introduction
-This is the official repository for the code and models used by UB-SHM team in IC-SHM 2022, project 2.
+This is the official repository for the code and models used by UB-SHM team in IC-SHM 2022, project 2. Models are evalauted on the [Quake City](https://sail.cive.uh.edu/quakecity/) benchmark dataset.
 
 ## TRS-Net
 
