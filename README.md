@@ -10,7 +10,7 @@ University at Buffalo (SUNY),
 Department of Civil, Structural and Environmental Engineering
 
 ## Introduction
-This the official repository for the code and models used by UB-SHM team in IC-SHM 2022.
+This is the official repository for the code and models used by UB-SHM team in IC-SHM 2022, project 2.
 
 ## SRSnet
 
