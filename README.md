@@ -10,7 +10,14 @@ University at Buffalo (SUNY),
 Department of Civil, Structural and Environmental Engineering
 
 ## Introduction
-This is the official repository for the code and models used by UB-SHM team in IC-SHM 2021, project 2. Models are evalauted on the [QuakeCity](https://sail.cive.uh.edu/quakecity/) benchmark dataset.
+This is the official repository for the code and models used by UB-SHM team in IC-SHM 2021, project 2. Models are evalauted on the [QuakeCity](https://sail.cive.uh.edu/quakecity/) benchmark dataset. The following models are introduced for 
+
+| Name | Segmentation Task | Trained Model |
+| :---: | :---: | :---: | 
+| SRT-Net | Component type | link |
+| SRT-Net | Component damage severity | link |
+| DmgFormer-S | damage (crack, rebar, spall) | link |
+| DmgFormer-L | damage (crack, rebar, spall) | link |
 
 ## TRS-Net
 
