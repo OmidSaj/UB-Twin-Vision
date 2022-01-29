@@ -14,8 +14,8 @@ This is the official repository for the code and models used by UB-SHM team in I
 
 | Name | Segmentation Task | Trained Model |
 | :---: | :---: | :---: | 
-| SRT-Net | Component type | link |
-| SRT-Net | Component damage severity | link |
+| TRS-Net | Component type | link |
+| TRS-Net | Component damage severity | link |
 | DmgFormer-S | Cracks, rebar exposure, spalling | link |
 | DmgFormer-L | Cracks, rebar exposure, spalling | link |
 
