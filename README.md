@@ -1,5 +1,5 @@
 # Twin Models for High Resolution Visual Inspections
-## IC-SHM 2022, Project 2
+## IC-SHM 2021, Project 2
 
 A team effort by PhD candidates:
 
@@ -10,7 +10,7 @@ University at Buffalo (SUNY),
 Department of Civil, Structural and Environmental Engineering
 
 ## Introduction
-This is the official repository for the code and models used by UB-SHM team in IC-SHM 2022, project 2. Models are evalauted on the [Quake City](https://sail.cive.uh.edu/quakecity/) benchmark dataset.
+This is the official repository for the code and models used by UB-SHM team in IC-SHM 2021, project 2. Models are evalauted on the [QuakeCity](https://sail.cive.uh.edu/quakecity/) benchmark dataset.
 
 ## TRS-Net
 
