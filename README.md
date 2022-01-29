@@ -14,7 +14,7 @@ This is the official repository for the code and models used by UB-SHM team in I
 
 ## TRS-Net
 
-![TRS-Net](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/TRS-Net.jpg)
+![TRS-Net](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/TRS-Net.png)
 
 ## DmgFormer
 
