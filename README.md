@@ -12,9 +12,9 @@ Department of Civil, Structural and Environmental Engineering
 ## Introduction
 This the official repository for the code and models used by UB-SHM team in IC-SHM 2022.
 
-## SRT-Net
+## SRSnet
 
-![SRT-Net](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/STR-Net.jpg)
+![SRSnet](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/STR-Net.jpg)
 
 ## DmgFormer
 
