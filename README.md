@@ -10,7 +10,7 @@ University at Buffalo (SUNY),
 Department of Civil, Structural and Environmental Engineering
 
 ## Introduction
-This is the official repository for the code and models used by UB-SHM team in IC-SHM 2022, project 2. Two models are 
+This is the official repository for the code and models used by UB-SHM team in IC-SHM 2022, project 2.
 
 ## TRS-Net
 
@@ -22,4 +22,3 @@ This is the official repository for the code and models used by UB-SHM team in I
 
 ## Acknowledgements
 * The [Swin Transformer](https://github.com/microsoft/Swin-Transformer) backbone implementation is a slight modification of the official repository from [Microsoft ](https://github.com/microsoft/Swin-Transformer).
-* The authors also ac
