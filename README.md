@@ -12,7 +12,7 @@ Department of Civil, Structural and Environmental Engineering
 ## Introduction
 This is the official repository for the code and models used by UB-SHM team in IC-SHM 2021, project 2. Models are evalauted on the [QuakeCity](https://sail.cive.uh.edu/quakecity/) benchmark dataset. 
 
-![Segmentation demo](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/DEMO.mp4)
+![Segmentation demo](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/A20400.png)
 
 | Name | Segmentation Task | Trained Model |
 | :---: | :---: | :---: | 
