@@ -21,4 +21,4 @@ This is the official repository for the code and models used by UB-SHM team in I
 ![DmgFormer](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/DmgFormer.jpg)
 
 ## Acknowledgements
-* The Swin Transformer backbone implementation is a slight modification of the offcial [Microsoft official repo](https://github.com/microsoft/Swin-Transformer)
+* The [Swin Transformer](https://github.com/microsoft/Swin-Transformer) backbone implementation is a slight modification of the official repository from [Microsoft ](https://github.com/microsoft/Swin-Transformer)
