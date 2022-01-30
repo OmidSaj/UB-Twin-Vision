@@ -15,10 +15,10 @@ This is the official repository for the code and models used by UB-SHM team in I
 ![Segmentation demo](https://github.com/OmidSaj/UB-Twin-Vision/blob/main/Assets/Figures/icshm.gif)
 
 ## Models and code
-The code and models are developed using ![PyTorch](https://pytorch.org/).
+The code and models are developed using ![PyTorch](https://pytorch.org/). Trained models and weight can be found from [releases](https://github.com/OmidSaj/UB-Twin-Vision/releases). 
 
 | Name | Segmentation Task |
-| :---: | :---: | :---: | 
+| :---: | :---: |
 | ![TRS-Net](https://github.com/OmidSaj/UB-Twin-Vision/tree/main/TRSNet/TASK1) | Component type |
 | ![TRS-Net](https://github.com/OmidSaj/UB-Twin-Vision/tree/main/TRSNet/TASK2)  | Component damage severity |
 | ![TRS-Net](https://github.com/OmidSaj/UB-Twin-Vision/tree/main/TRSNet/TASK3)  | Cracks, rebar exposure, spalling |
