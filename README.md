@@ -17,13 +17,13 @@ This is the official repository for the code and models used by UB-SHM team in I
 ## Models and code
 The code and models are developed using ![PyTorch](https://pytorch.org/).
 
-| Name | Segmentation Task | Trained Model/weights |
+| Name | Segmentation Task |
 | :---: | :---: | :---: | 
-| ![TRS-Net](https://github.com/OmidSaj/UB-Twin-Vision/tree/main/TRSNet/TASK1) | Component type | link |
-| ![TRS-Net](https://github.com/OmidSaj/UB-Twin-Vision/tree/main/TRSNet/TASK2)  | Component damage severity | link |
-| ![TRS-Net](https://github.com/OmidSaj/UB-Twin-Vision/tree/main/TRSNet/TASK3)  | Cracks, rebar exposure, spalling | link |
-| ![DmgFormer-S](https://github.com/OmidSaj/UB-Twin-Vision/tree/main/DmgFormer) | Cracks, rebar exposure, spalling | link |
-| ![DmgFormer-L](https://github.com/OmidSaj/UB-Twin-Vision/tree/main/DmgFormer) | Cracks, rebar exposure, spalling | link |
+| ![TRS-Net](https://github.com/OmidSaj/UB-Twin-Vision/tree/main/TRSNet/TASK1) | Component type |
+| ![TRS-Net](https://github.com/OmidSaj/UB-Twin-Vision/tree/main/TRSNet/TASK2)  | Component damage severity |
+| ![TRS-Net](https://github.com/OmidSaj/UB-Twin-Vision/tree/main/TRSNet/TASK3)  | Cracks, rebar exposure, spalling |
+| ![DmgFormer-S](https://github.com/OmidSaj/UB-Twin-Vision/tree/main/DmgFormer) | Cracks, rebar exposure, spalling |
+| ![DmgFormer-L](https://github.com/OmidSaj/UB-Twin-Vision/tree/main/DmgFormer) | Cracks, rebar exposure, spalling |
 
 ## TRS-Net
 
