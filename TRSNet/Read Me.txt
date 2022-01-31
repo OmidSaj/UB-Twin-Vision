@@ -20,7 +20,7 @@ The weights files (.pt) in the release page can be used. Please refer to the fol
 1- Creat a "weights" directory in Task* folders (* depends on the weights model task, can be 1, 2, or 3).
 2- In the "weights" directory, create an {hr_name} directory where {hr_name} is a variable that can be found on line 41 for Tasks 1 & 2, and line 51 for Task 3.
 3- Copy the model weights file (*.pt) to the {hr_name} folder.
-4- To continue training from a checkpooint, the *_cont.py files can be used, to test the model, use the *_test.py files.
+4- To continue training from a checkpooint, the *_cont.py files can be used. To test the model, use the *_test.py files.
 
 Also, check these two lines to make sure the weights file match the one in "weights" folder
 """
