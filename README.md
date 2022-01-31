@@ -35,4 +35,8 @@ The code and models are developed using ![PyTorch](https://pytorch.org/). Traine
 
 ## Acknowledgements
 * The [Swin Transformer](https://github.com/microsoft/Swin-Transformer) backbone implementation is a slight modification of the official repository from [Microsoft ](https://github.com/microsoft/Swin-Transformer)
-* TRS-Net is based on ResNeSt and U-Net++ implementations from [SMP](https://github.com/qubvel/segmentation_models.pytorch) and [timm-models](https://github.com/rwightman/pytorch-image-models)
+* TRS-Net is based on ResNeSt[1] and U-Net++[2] implementations from [SMP](https://github.com/qubvel/segmentation_models.pytorch) and [timm-models](https://github.com/rwightman/pytorch-image-models)
+
+### References
+[1] H. Zhang et al., "Resnest: Split-attention networks," arXiv preprint arXiv:2004.08955, 2020.
+[2] Z. Zhou, M. M. R. Siddiquee, N. Tajbakhsh, and J. Liang, "Unet++: A nested u-net architecture for medical image segmentation," in Deep learning in medical image analysis and multimodal learning for clinical decision support: Springer, 2018, pp. 3-11.
