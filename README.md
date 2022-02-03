@@ -41,3 +41,5 @@ The code and models are developed using ![PyTorch](https://pytorch.org/). Traine
 [1] H. Zhang et al., "Resnest: Split-attention networks," arXiv preprint arXiv:2004.08955, 2020.
 
 [2] Z. Zhou, M. M. R. Siddiquee, N. Tajbakhsh, and J. Liang, "Unet++: A nested u-net architecture for medical image segmentation," in Deep learning in medical image analysis and multimodal learning for clinical decision support: Springer, 2018, pp. 3-11.
+
+[3] Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., Lin, S. and Guo, B. Swin transformer: Hierarchical vision transformer using shifted windows. In Proceedings of the IEEE/CVF International Conference on Computer Vision, 2021, pp. 10012-10022.
