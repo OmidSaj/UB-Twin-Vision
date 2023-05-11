@@ -5,12 +5,11 @@ import torch
 from torch.nn.modules.loss import _Loss
 from ._functional import focal_loss_with_logits
 from .constants import BINARY_MODE, MULTICLASS_MODE, MULTILABEL_MODE
-
+#### edited by KE in 2022
 __all__ = ["FocalLoss"]
 
 
 class FocalLoss(_Loss):
-
     def __init__(
         self,
         mode: str,
@@ -30,7 +29,8 @@ class FocalLoss(_Loss):
             ignore_index: If not None, targets may contain values to be ignored.
                 Target values equal to ignore_index will be ignored from loss computation.
             normalized: Compute normalized focal loss (https://arxiv.org/pdf/1909.07829.pdf).
-            reduced_threshold: Switch to reduced focal loss. Note, when using this mode you should use `reduction="sum"`.
+            reduced_threshold: Switch to reduced focal loss. Note, when using this mode you 
+            should use `reduction="sum"`.
         
         Shape
              - **y_pred** - torch.Tensor of shape (N, C, H, W)
